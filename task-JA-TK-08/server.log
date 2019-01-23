@@ -1,0 +1,43 @@
+2018-12-29 00:29:20 ERROR UserDaoImpl:51 - java.sql.SQLException: Parameter index out of range (5 > number of parameters, which is 4).
+2018-12-29 00:35:51 ERROR UserDaoImpl:51 - java.sql.SQLException: Parameter index out of range (5 > number of parameters, which is 4).
+2018-12-29 00:42:34 ERROR UserDaoImpl:150 - java.sql.SQLException: Illegal operation on empty result set.
+2019-01-16 21:15:28 ERROR ProductDaoImpl:49 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Out of range value for column 'price' at row 1
+2019-01-17 21:34:49 ERROR UserDaoImpl:150 - java.sql.SQLException: Illegal operation on empty result set.
+2019-01-17 21:34:49 ERROR UserDaoImpl:150 - java.sql.SQLException: Illegal operation on empty result set.
+2019-01-17 21:34:49 ERROR UserDaoImpl:150 - java.sql.SQLException: Illegal operation on empty result set.
+2019-01-17 21:40:48 ERROR UserDaoImpl:150 - java.sql.SQLException: Illegal operation on empty result set.
+2019-01-17 21:40:52 ERROR UserDaoImpl:150 - java.sql.SQLException: Illegal operation on empty result set.
+2019-01-17 21:40:55 ERROR UserDaoImpl:150 - java.sql.SQLException: Illegal operation on empty result set.
+2019-01-17 21:47:59 ERROR UserDaoImpl:150 - java.sql.SQLException: Illegal operation on empty result set.
+2019-01-17 21:48:00 ERROR UserDaoImpl:150 - java.sql.SQLException: Illegal operation on empty result set.
+2019-01-17 21:48:04 ERROR UserDaoImpl:150 - java.sql.SQLException: Illegal operation on empty result set.
+2019-01-17 21:48:13 ERROR UserDaoImpl:150 - java.sql.SQLException: Illegal operation on empty result set.
+2019-01-17 21:48:18 ERROR UserDaoImpl:150 - java.sql.SQLException: Illegal operation on empty result set.
+2019-01-17 21:48:20 ERROR UserDaoImpl:150 - java.sql.SQLException: Illegal operation on empty result set.
+2019-01-17 21:48:25 ERROR UserDaoImpl:150 - java.sql.SQLException: Illegal operation on empty result set.
+2019-01-17 21:49:22 ERROR UserDaoImpl:150 - java.sql.SQLException: Illegal operation on empty result set.
+2019-01-17 22:25:00 ERROR UserServiceImpl:23 - java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+2019-01-17 22:26:23 ERROR UserDaoImpl:148 - java.sql.SQLException: Illegal operation on empty result set.
+2019-01-17 22:27:09 ERROR UserDaoImpl:148 - java.sql.SQLException: Illegal operation on empty result set.
+2019-01-17 22:28:38 ERROR BucketDaoImpl:45 - java.sql.SQLSyntaxErrorException: Unknown column 'product_id' in 'field list'
+2019-01-17 22:28:45 ERROR BucketDaoImpl:106 - java.sql.SQLSyntaxErrorException: Unknown column 'bucket.product_id' in 'on clause'
+2019-01-17 22:32:25 ERROR UserDaoImpl:150 - java.sql.SQLException: Illegal operation on empty result set.
+2019-01-17 22:32:30 ERROR UserDaoImpl:150 - java.sql.SQLException: Illegal operation on empty result set.
+2019-01-17 22:32:35 ERROR UserDaoImpl:150 - java.sql.SQLException: Illegal operation on empty result set.
+2019-01-17 22:32:41 ERROR UserDaoImpl:150 - java.sql.SQLException: Illegal operation on empty result set.
+2019-01-17 22:33:11 ERROR UserDaoImpl:150 - java.sql.SQLException: Illegal operation on empty result set.
+2019-01-17 22:33:17 ERROR UserDaoImpl:150 - java.sql.SQLException: Illegal operation on empty result set.
+2019-01-17 22:33:27 ERROR UserDaoImpl:150 - java.sql.SQLException: Illegal operation on empty result set.
+2019-01-17 22:33:37 ERROR UserDaoImpl:150 - java.sql.SQLException: Illegal operation on empty result set.
+2019-01-17 22:33:49 ERROR UserDaoImpl:150 - java.sql.SQLException: Illegal operation on empty result set.
+2019-01-17 23:09:46 ERROR UserDaoImpl:148 - java.sql.SQLException: Illegal operation on empty result set.
+2019-01-21 22:56:33 ERROR UserDaoImpl:149 - java.sql.SQLException: Illegal operation on empty result set.
+2019-01-21 23:13:46 ERROR BucketDaoImpl:106 - java.sql.SQLSyntaxErrorException: Unknown column 'bucket.product_id' in 'on clause'
+2019-01-21 23:13:51 ERROR BucketDaoImpl:106 - java.sql.SQLSyntaxErrorException: Unknown column 'bucket.product_id' in 'on clause'
+2019-01-21 23:15:29 ERROR BucketDaoImpl:106 - java.sql.SQLSyntaxErrorException: Unknown column 'bucket.product_id' in 'on clause'
+2019-01-21 23:17:03 ERROR BucketDaoImpl:106 - java.sql.SQLSyntaxErrorException: Unknown column 'bucket.product_id' in 'on clause'
+2019-01-21 23:17:09 ERROR BucketDaoImpl:106 - java.sql.SQLSyntaxErrorException: Unknown column 'bucket.product_id' in 'on clause'
+2019-01-21 23:45:36 ERROR BucketDaoImpl:106 - java.sql.SQLSyntaxErrorException: Unknown column 'bucket.product_id' in 'on clause'
+2019-01-22 00:10:37 ERROR BucketDaoImpl:45 - java.sql.SQLSyntaxErrorException: Unknown column 'product_id' in 'field list'
+2019-01-22 00:10:59 ERROR BucketDaoImpl:45 - java.sql.SQLSyntaxErrorException: Unknown column 'product_id' in 'field list'
+2019-01-22 00:15:27 ERROR BucketDaoImpl:45 - java.sql.SQLSyntaxErrorException: Unknown column 'product_id' in 'field list'

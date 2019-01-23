@@ -1,0 +1,3 @@
+2018-12-29 00:29:20 ERROR UserDaoImpl:51 - java.sql.SQLException: Parameter index out of range (5 > number of parameters, which is 4).
+2018-12-29 00:35:51 ERROR UserDaoImpl:51 - java.sql.SQLException: Parameter index out of range (5 > number of parameters, which is 4).
+2018-12-29 00:42:34 ERROR UserDaoImpl:150 - java.sql.SQLException: Illegal operation on empty result set.
